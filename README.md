@@ -1,5 +1,4 @@
 # MPI_ppt
-ppt for MPI
+##ppt for MPI
 
-
-Help us to understand basic MPI
+Help us to understand basic MPI instruction
